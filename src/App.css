@@ -24,6 +24,10 @@
   color: white;
 }
 
+.bg-blue{
+  background-color: rgb(141, 141, 247);
+}
+
 .App-link {
   color: #61dafb;
 }
